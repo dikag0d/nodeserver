@@ -185,7 +185,10 @@ https://doorlockapi.loca.lt
 ## 👥 Tim Pengembang
 
 **DHEA SYSTEMS**
-
+Andika Nugraha
+Anggoro Redi Saputro
+Nathaniel Eden Amory
+Muhammad Hisyam Arrafi
 ---
 
 ⭐ Jangan lupa beri bintang jika proyek ini membantu!
